@@ -5,7 +5,6 @@ import Card from "./components/card.jsx";
 function App() {
   return (
     <div>
-      <App />
       <Welcome />
       <User />
       <Card />

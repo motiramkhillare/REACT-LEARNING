@@ -1,5 +1,5 @@
 function Welcome() {
-  return <h1>Hello Rea</h1>;
+  return <h1>Welcome from REact </h1>
 }
 
 export default Welcome;

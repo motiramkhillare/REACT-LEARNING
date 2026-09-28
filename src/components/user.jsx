@@ -1,3 +1,5 @@
+import React from "react";
+ 
 <Card
   name="Motiram Khillare"
   role="Full Stack Developer"

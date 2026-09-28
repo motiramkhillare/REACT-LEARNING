@@ -4,6 +4,7 @@ const Card = () => {
   return (
     <div>
       <div className="card">Card Content</div>
+      
     </div>
   )
 }
