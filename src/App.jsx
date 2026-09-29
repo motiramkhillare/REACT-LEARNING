@@ -1,14 +1,14 @@
-import Welcome from "./components/welcome.jsx";
-import User from "./components/user.jsx";
-import Card from "./components/card.jsx";
+import Navbar from "./components/section1/Navbar";
+import "./App.css";
+import Section1 from "./components/section1/Section1";
+import Section2 from "./components/section2/Section2";
 
 function App() {
   return (
-    <div>
-      <Welcome />
-      <User />
-      <Card />
-    </div>
+    <>
+      <Section1 />
+      <Section2 />
+    </>
   );
 }
 
